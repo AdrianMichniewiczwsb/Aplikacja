@@ -4,7 +4,7 @@ Prosty Kalkulator w Javie
 
 
 
- 1. Pobierz projekt na swój komputer
+## 1. Pobierz projekt na swój komputer
 
 - Kliknij zielony przycisk **Code** -> wybierz **Download ZIP**
 - Pobierz plik ZIP i rozpakuj go na komputerze (np. na pulpicie)
