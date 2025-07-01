@@ -42,7 +42,4 @@ java Main
 
 
 
-##7.Autor
-Adrian Michniewicz
-WSB mertio
 
