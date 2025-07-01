@@ -1,81 +1,64 @@
-# Lab 1 - Prosty kalkulator w Javie
 
-## Opis projektu  
-Program w Javie, który pyta o dwie liczby, dodaje je i pokazuje wynik.
+Prosty Kalkulator w Javie
 
-## Wymagania  
-- Java JDK (np. OpenJDK 17 lub nowsze) zainstalowane i dodane do PATH  
-- Git (opcjonalnie, jeśli chcesz sklonować repozytorium)
-
-## Jak uruchomić krok po kroku (Windows)
-
-1. **Zainstaluj Java JDK**  
-   - Wejdź na https://adoptium.net/  
-   - Pobierz najnowszą wersję JDK dla Windows (plik `.msi`)  
-   - Zainstaluj program. Jeśli instalator nie dodał JDK do PATH, dodaj to ręcznie (patrz punkt 8).
-
-2. **Sprawdź, czy `javac` działa**  
-   - Otwórz Wiersz polecenia (cmd)  
-   - Wpisz:  
-     
-     javac -version
-     
-   - Jeśli zobaczysz wersję JDK, idź dalej. Jeśli pojawi się błąd, dodaj JDK do PATH lub przeinstaluj JDK.
-
-3. **(Opcjonalnie) Sklonuj projekt z GitHub**  
-   - W cmd wpisz:  
-     
-     git clone https://github.com/twoj-login/my-java-project1zad1.git
-     cd my-java-project1zad1
-     
-
-4. **Przejdź do folderu projektu**  
-   - Jeśli masz projekt lokalnie, wpisz w cmd:  
-     
-     cd ścieżka\do\folderu
-     
-
-5. **Skompiluj program**  
-   - Wpisz:  
-     
-     javac src\Main.java
-
-   - W folderze `src` powinien pojawić się plik `Main.class`.
-
-6. **Uruchom program**  
-   - Wpisz:  
-     
-     java -cp src Main
-   
-
-7. **Korzystaj z programu**  
-   - Program zapyta o dwie liczby:  
-    
-     Podaj pierwszą liczbę:
-    
-     Wpisz liczbę i naciśnij Enter.  
-     
-     Podaj drugą liczbę:
-    
-     Wpisz drugą liczbę i naciśnij Enter.  
-   - Program pokaże wynik, np.:  
-     
-     Wynik: 46
-     
-
-8. **Jak dodać JDK do PATH ręcznie (jeśli potrzeba)**  
-   - Znajdź folder instalacji JDK, np.:  
-     
-     C:\Program Files\Eclipse Adoptium\jdk-17.0.x\bin
-  
-   - Otwórz Panel sterowania → System → Zaawansowane ustawienia systemu → Zmienne środowiskowe  
-   - W „Zmienne systemowe” znajdź `Path`, kliknij Edytuj → Nowy i wklej ścieżkę do folderu `bin` JDK  
-   - Zatwierdź zmiany, zamknij i otwórz nowy cmd  
-   - Sprawdź ponownie:  
-    
-     javac -version
-     
+  Aplikacja w Javie, która dodaje dwie liczby i pokazuje wynik.
 
 
-## Licencja  
-MIT
+
+ Jak odpalić tę aplikację? Krok po kroku — nie bój się!
+
+ 1. Pobierz projekt na swój komputer
+
+- Kliknij zielony przycisk **Code** -> wybierz **Download ZIP**
+- Pobierz plik ZIP i rozpakuj go na komputerze (np. na pulpicie)
+
+
+
+ 2. Zainstaluj Java JDK (jeśli jeszcze nie masz)
+
+- Wejdź na stronę: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
+- Pobierz i zainstaluj wersję JDK odpowiednią dla Twojego systemu Windows
+- Po instalacji zamknij i otwórz ponownie PowerShell lub CMD (ważne!)
+
+
+
+ 3. Uruchom aplikację
+
+1. Otwórz PowerShell (kliknij Start, wpisz „PowerShell” i kliknij program)
+2. Przejdź do folderu, gdzie rozpakowałeś projekt. Np. jeśli rozpakowałeś na pulpit:
+
+```powershell
+cd $env:USERPROFILE\Desktop\Aplikacja
+
+
+4.Przejdź do folderu src, gdzie jest kod Java:
+
+cd src
+
+5.Skompiluj program
+
+javac Main.java
+
+6.Uruchom program :
+java Main
+
+
+
+Struktura projektu
+css
+Kopiuj
+Edytuj
+Aplikacja/
+├── README.md         <- Ten plik z instrukcją
+└── src/
+    └── Main.java     <- Tutaj jest kod programu Java
+
+
+
+
+Autor
+Adrian Michniewicz
+WSB mertio
+
+
+
