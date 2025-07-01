@@ -37,20 +37,12 @@ javac Main.java
 
 ## 6.Uruchom program :
 java Main
-
-
-
-##Struktura projektu
-
-Aplikacja/
-├── README.md         
-└── src/
-    └── Main.java     
+  
 
 
 
 
-##Autor
+##7.Autor
 Adrian Michniewicz
 WSB mertio
 
