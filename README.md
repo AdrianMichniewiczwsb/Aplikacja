@@ -76,25 +76,6 @@ Program w Javie, który pyta o dwie liczby, dodaje je i pokazuje wynik.
      javac -version
      
 
-9. **Jak zaktualizować README i wysłać zmiany na GitHub**  
-   - Otwórz terminal w folderze projektu  
-   - Sprawdź status zmian:  
-    
-     git status
-    
-   - Dodaj README do commita:  
-    
-     git add README.md
-      
-   - Zrób commit:  
-     
-     git commit -m "Aktualizacja README z instrukcją krok po kroku dla Windows"
-    
-   - Wypchnij zmiany na GitHub:  
-    
-     git push origin main
-     
-     *Uwaga:* jeśli Twoja główna gałąź nazywa się inaczej (np. `master`), wpisz jej nazwę zamiast `main`.
 
 ## Licencja  
 MIT
