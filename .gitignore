@@ -1,6 +1,16 @@
+# Ignoruj pliki klas Java
 *.class
-*.jar
-*.war
-*.ear
-/out/
-target/
+
+# Ignoruj folder build (jeśli jest)
+build/
+
+# Ignoruj pliki IDE (dla IntelliJ)
+.idea/
+*.iml
+
+# Ignoruj pliki tymczasowe systemu Windows
+Thumbs.db
+.DS_Store
+
+# Ignoruj pliki logów
+*.log
