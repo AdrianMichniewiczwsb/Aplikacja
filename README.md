@@ -27,7 +27,7 @@ Prosty Kalkulator w Javie
 cd $env:USERPROFILE\Desktop\Aplikacja
 
 
-##4.Przejdź do folderu src, gdzie jest kod Java:
+## 4.Przejdź do folderu src, gdzie jest kod Java:
 
 cd src
 
