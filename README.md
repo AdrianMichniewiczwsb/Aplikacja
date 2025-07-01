@@ -11,7 +11,7 @@ Prosty Kalkulator w Javie
 
 
 
- 2. Zainstaluj Java JDK (jeśli jeszcze nie masz)
+## 2. Zainstaluj Java JDK (jeśli jeszcze nie masz)
 
 - Wejdź na stronę: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 - Pobierz i zainstaluj wersję JDK odpowiednią dla Twojego systemu Windows
@@ -19,7 +19,7 @@ Prosty Kalkulator w Javie
 
 
 
- 3. Uruchom aplikację
+## 3. Uruchom aplikację
 
 1. Otwórz PowerShell (kliknij Start, wpisz „PowerShell” i kliknij program)
 2. Przejdź do folderu, gdzie rozpakowałeś projekt. Np. jeśli rozpakowałeś na pulpit:
@@ -27,32 +27,30 @@ Prosty Kalkulator w Javie
 cd $env:USERPROFILE\Desktop\Aplikacja
 
 
-4.Przejdź do folderu src, gdzie jest kod Java:
+##4.Przejdź do folderu src, gdzie jest kod Java:
 
 cd src
 
-5.Skompiluj program
+## 5.Skompiluj program
 
 javac Main.java
 
-6.Uruchom program :
+## 6.Uruchom program :
 java Main
 
 
 
-Struktura projektu
-css
-Kopiuj
-Edytuj
+##Struktura projektu
+
 Aplikacja/
-├── README.md         <- Ten plik z instrukcją
+├── README.md         
 └── src/
-    └── Main.java     <- Tutaj jest kod programu Java
+    └── Main.java     
 
 
 
 
-Autor
+##Autor
 Adrian Michniewicz
 WSB mertio
 
