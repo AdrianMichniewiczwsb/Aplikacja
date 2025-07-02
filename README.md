@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Prosty Kalkulator w Javie
 
@@ -5,7 +6,7 @@ Prosty Kalkulator w Javie
 
 
 
- Jak odpalić tę aplikację? Krok po kroku — nie bój się!
+ Jak odpalić tę aplikację? 
 
  1. Pobierz projekt na swój komputer
 
@@ -27,7 +28,7 @@ Prosty Kalkulator w Javie
 1. Otwórz PowerShell (kliknij Start, wpisz „PowerShell” i kliknij program)
 2. Przejdź do folderu, gdzie rozpakowałeś projekt. Np. jeśli rozpakowałeś na pulpit:
 
-```powershell
+powershell
 cd $env:USERPROFILE\Desktop\Aplikacja
 
 
@@ -49,9 +50,9 @@ css
 Kopiuj
 Edytuj
 Aplikacja/
-├── README.md         <- Ten plik z instrukcją
+├── README.md         
 └── src/
-    └── Main.java     <- Tutaj jest kod programu Java
+    └── Main.java    
 
 
 
@@ -62,3 +63,11 @@ WSB mertio
 
 
 
+
+  
+
+
+
+
+
+ d2a477034a93ca9049d434e0c98b380134e1078a
