@@ -33,10 +33,10 @@ cd src
 
 ## 5.Skompiluj program
 
-javac Main.java
+javac Aplikacja.java
 
 ## 6.Uruchom program :
-java Main
+java Aplikacja
   
 
 
