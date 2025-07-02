@@ -27,7 +27,7 @@ Prosty Kalkulator w Javie
 1. Otwórz PowerShell (kliknij Start, wpisz „PowerShell” i kliknij program)
 2. Przejdź do folderu, gdzie rozpakowałeś projekt. Np. jeśli rozpakowałeś na pulpit:
 
-```powershell
+powershell
 cd $env:USERPROFILE\Desktop\Aplikacja
 
 
