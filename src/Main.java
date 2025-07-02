@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Kalkulator dodawania wersja A");
+        System.out.println("Prosty kalkulator dodawania - wersja B");
         System.out.print("Podaj pierwszą liczbę: ");
         int a = scanner.nextInt();
 
