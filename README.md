@@ -1,21 +1,32 @@
-<<<<<<< HEAD
+ HEAD
 
+
+
+ main
 Prosty Kalkulator w Javie
 
   Aplikacja w Javie, która dodaje dwie liczby i pokazuje wynik.
 
 
 
+ HEAD
  Jak odpalić tę aplikację? 
 
- 1. Pobierz projekt na swój komputer
+!
+
+
+
+## 1. Pobierz projekt na swój komputer
+ main
 
 - Kliknij zielony przycisk **Code** -> wybierz **Download ZIP**
 - Pobierz plik ZIP i rozpakuj go na komputerze (np. na pulpicie)
 
 
 
- 2. Zainstaluj Java JDK (jeśli jeszcze nie masz)
+
+## 2. Zainstaluj Java JDK (jeśli jeszcze nie masz)
+ main
 
 - Wejdź na stronę: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 - Pobierz i zainstaluj wersję JDK odpowiednią dla Twojego systemu Windows
@@ -23,11 +34,13 @@ Prosty Kalkulator w Javie
 
 
 
- 3. Uruchom aplikację
+
+
+## 3. Uruchom aplikację
+ main
 
 1. Otwórz PowerShell (kliknij Start, wpisz „PowerShell” i kliknij program)
 2. Przejdź do folderu, gdzie rozpakowałeś projekt. Np. jeśli rozpakowałeś na pulpit:
-
 powershell
 cd $env:USERPROFILE\Desktop\Aplikacja
 
@@ -62,6 +75,9 @@ Adrian Michniewicz
 WSB mertio
 
 
+ 
+
+
 
 
   
@@ -70,4 +86,5 @@ WSB mertio
 
 
 
- d2a477034a93ca9049d434e0c98b380134e1078a
+
+
